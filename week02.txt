@@ -1,6 +1,6 @@
 week02
 
--linux command : ls, ls -al, pwd, cd .git, cd ..
+-linux command : ls, ls -al, pwd, cd .git, cd .. , echo "blahblah" >> README.md, cat README.md
 
 -git command 
 => 
@@ -17,3 +17,9 @@ git config --global user.name "your name"
 git commit -m "v0"
 
 git log : 현재 확인하기
+
+git checkout hashcode
+
+git checkout -
+
+git branch -M main
